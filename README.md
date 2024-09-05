@@ -16,13 +16,15 @@ A aplicação se conecta a uma API externa de filmes para obter dados sobre film
    git clone https://github.com/the-Rocket11/movies-search-and-reviews.git
 
 2. Instale as dependências
+	```bash
 	cd review-backend
 	npm install
 	
 3. Inicie o servidor
+	```bash
 	npm start
 	
-4. Acesse a aplicação em http://localhost:8000/api/v1/reviews ou index.html
+4. Acesse a aplicação em: http://localhost:8000/api/v1/reviews ou index.html
 
 ## Utilização
 	Pesquise por filmes utilizando a barra de busca.
